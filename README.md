@@ -1,2 +1,2 @@
 # spellcheck-python-startcode
-Python start code for Spell Check Assignment
+Python start code for Spell Check
